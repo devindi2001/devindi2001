@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Undergraduate
 -------------
 
-Hello! I’m Devindi Kudagama, a undergraduate at the Faculty of Management, Department of Information Systems, Rajarata University of Sri Lanka. In addition to my studies in Information Systems, I am also pursuing a Bachelor's in Law at the Open University of Sri Lanka, Polgolla. I am an enthusiastic knowledge seeker with a passion for technology and continuous learning. I have hands-on experience with tools such as Sage 50 Accounting software, Power BI, and Postman, and I am familiar with web development technologies like HTML and CSS. Currently, I am focused on pursuing a career as a Software Quality Assurance Engineer, where I hope to apply my technical skills and analytical mindset to ensure software quality and excellence.
+Hello! I’m Devindi Kudagama, a undergraduate at the Faculty of Management, Department of Information Systems, Rajarata University of Sri Lanka. In addition to my studies in Information Systems, I am also pursuing a Bachelor's in Law at the Open University of Sri Lanka, Polgolla. I am an enthusiastic knowledge seeker with a passion for technology and continuous learning. I have hands-on experience with tools such as Sage 50 Accounting software, Power BI,Katalon Studio, and Postman, and I am familiar with web development technologies like HTML and CSS. Currently, I am focused on pursuing a career as a Software Quality Assurance Engineer, where I hope to apply my technical skills and analytical mindset to ensure software quality and excellence.
 
 *   🌍  I'm based in Sri Lanka, Kandy
 *   ✉️  You can contact me at [prabanikudagama@gmail.com](mailto:prabanikudagama@gmail.com)
